@@ -1,0 +1,4 @@
+bin/
+obj/
+.cake/
+.idea/
